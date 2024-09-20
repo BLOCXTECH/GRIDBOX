@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>GRIDBOX_HostClient-macos-v100</string>
+	<key>CFBundleExecutable</key>
+	<string>GRIDBOX_HostClient-macos-v100</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-3a4d5ce9239df7283bc3854d95912675564ca9bdd97a26e7a81e6fc6b0d9d47c.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>GRIDBOX_HostClient-macos-v100</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>GRIDBOX_HostClient-macos-v100</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
