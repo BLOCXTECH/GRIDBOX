@@ -5,6 +5,6 @@
     "files": {
         "windows": "GRIDBOX_HostClient-win64-vVERSION_NUMBER.exe",
         "linux": "GRIDBOX_HostClient-linux-vVERSION_NUMBER",
-        "macos": "GRIDBOX_HostClient-macos-vVERSION_NUMBER.app"
+        "macos": "GRIDBOX_HostClient-macos-vVERSION_NUMBER.zip"
     }
 }
