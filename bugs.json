@@ -7,5 +7,6 @@
     { "id": 6, "name": "Missing session history", "action": "Session history not showing in dashboard.", "status": "fixed" },
     { "id": 7, "name": "Macos Host Client", "action": "Macos Host client not opening properly on MACOS.", "status": "known" },
     { "id": 8, "name": "Host Client antivirus warning", "action": "[Host-Side] Antivirus showing warning for Host Client.", "status": "known" }
-  ]
+  
+]
   
