@@ -6,7 +6,8 @@
     { "id": 5, "name": "Machine missing in Marketplace", "action": "[Host-Side] Machine not showing in Marketplace after successful message from host client.", "status": "fixed" },
     { "id": 6, "name": "Missing session history", "action": "Session history not showing in dashboard.", "status": "fixed" },
     { "id": 7, "name": "Macos Host Client", "action": "Macos Host client not opening properly on MACOS.", "status": "working" },
-    { "id": 8, "name": "Host Client antivirus warning", "action": "[Host-Side] Antivirus showing warning for Host Client.", "status": "known" }
+    { "id": 8, "name": "Host Client antivirus warning", "action": "[Host-Side] Antivirus showing warning for Host Client.", "status": "known" },
+    { "id": 9, "name": "Incomplete SSH Credential", "action": "On the Rented Machine Session, Incomplete and Invalid SSH credentials are shown.", "status": "known" }
   
 ]
   
