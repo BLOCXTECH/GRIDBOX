@@ -1,0 +1,11 @@
+[
+    { "id": 1, "name": "Windows Host Client", "action": "[Host-Side] ID RSA Error when launching application", "status": "fixed" },
+    { "id": 2, "name": "Send Coin Issue", "action": "Send coin not working in Pop Up Wallet and Host wallet.", "status": "fixed" },
+    { "id": 3, "name": "Session Not Found", "action": "Pop Up error while renting the Machine", "status": "fixed" },
+    { "id": 4, "name": "Renter Not Found", "action": "Pop Up error while renting the Machine", "status": "fixed" },
+    { "id": 5, "name": "Machine missing in Marketplace", "action": "[Host-Side] Machine not showing in Marketplace after successful message from host client.", "status": "fixed" },
+    { "id": 6, "name": "Missing session history", "action": "Session history not showing in dashboard.", "status": "fixed" },
+    { "id": 7, "name": "Macos Host Client", "action": "Macos Host client not opening properly on MACOS.", "status": "known" },
+    { "id": 8, "name": "Host Client antivirus warning", "action": "[Host-Side] Antivirus showing warning for Host Client.", "status": "known" }
+  ]
+  
