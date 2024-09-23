@@ -1,7 +1,7 @@
 {
-    "versionCode": "1.0.0",
-    "versionNumber": "100",
-    "releaseDate": "2024-19-09", 
+    "versionCode": "1.0.1",
+    "versionNumber": "101",
+    "releaseDate": "2024-23-09", 
     "files": {
         "windows": "GRIDBOX_HostClient-win64-vVERSION_NUMBER.exe",
         "linux": "GRIDBOX_HostClient-linux-vVERSION_NUMBER",
