@@ -1,11 +1,11 @@
 {
-    "versionCode": "2.0.0", 
-    "versionNumber": "200",
-    "releaseDate": "2024-17-12", 
-    "files": {
-        "windows": "GRIDBOX_HostClient-win64-vVERSION_NUMBER.exe",
-        "linux": "GRIDBOX_HostClient-linux-vVERSION_NUMBER",
-        "macos": "GRIDBOX_HostClient-macos-vVERSION_NUMBER.zip"
-    },
-    "comment" : "TriggerFor102"
+  "versionCode": "2.0.1",
+  "versionNumber": "201",
+  "releaseDate": "2024-17-12",
+  "files": {
+    "windows": "GRIDBOX_HostClient-win64-vVERSION_NUMBER.exe",
+    "linux": "GRIDBOX_HostClient-linux-vVERSION_NUMBER",
+    "macos": "GRIDBOX_HostClient-macos-vVERSION_NUMBER.zip"
+  },
+  "comment": "TriggerFor102"
 }
