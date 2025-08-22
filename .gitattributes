@@ -1,1 +1,2 @@
 releases/v201/GRIDBOX_HostClient-linux-v201 filter=lfs diff=lfs merge=lfs -text
+releases/v201/GRIDBOX_HostClient-linux-v300 filter=lfs diff=lfs merge=lfs -text
